@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mem",
+				"memo"
+			],
+			[
+				"inter",
+				"intervalB"
+			],
+			[
+				"get",
+				"get_products_of_all_ints_except_at_index_O_of_n"
+			],
+			[
+				"pro",
+				"product_so_far"
+			],
+			[
+				"prod",
+				"product_so_far"
+			],
+			[
+				"pr",
+				"prodsb"
+			],
+			[
+				"prods",
+				"prodsb"
+			],
+			[
+				"max",
+				"max_price"
+			],
+			[
+				"date_",
+				"date_to_score"
+			],
+			[
+				"date",
+				"date_to_ranks"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"users",
+				"users_dates"
+			],
+			[
+				"num",
+				"num_left"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"print",
+				"printf"
+			],
+			[
+				"base64",
+				"base64_decode"
+			],
+			[
+				"prev",
+				"prev_stack"
+			],
+			[
+				"sta",
+				"stack_of_stacks"
+			],
+			[
+				"stac",
+				"stack_idx"
+			],
+			[
+				"curr",
+				"curr_stack_len"
+			],
+			[
+				"shift",
+				"shift_idx"
+			],
+			[
+				"previ",
+				"prev_stack_idx"
+			],
+			[
+				"stack",
+				"stack_idx"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"last_filter": "package insta",
+		"selected_items":
+		[
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/phaedra/Documents/WagUserAnalysis/php-challenge-2/solution.php",
+		"/Users/phaedra/Documents/php-challenge-2/sql_fidle.sql",
+		"/Users/phaedra/Documents/php-challenge-2/NOTES.PHP",
+		"/Users/phaedra/Documents/Code/stack_of_plates.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"memo_key",
+			"find_coin_permuations",
+			"coin_combinations",
+			"find_coin_permuations",
+			"arg",
+			"ClassName",
+			"find_coin_combos",
+			"find_coin_permuations",
+			"find_coin_combos_permuations",
+			"find_coin_combos",
+			"coin_combinations",
+			"find_coin_combos",
+			"coin_combinations",
+			"print",
+			"prod",
+			"left_prod",
+			"left",
+			"right",
+			"get_products_of_all_ints_except_at_index_division",
+			"print(",
+			"get_prod",
+			"get_products_of_all_ints_except_at_index",
+			"get_max_profit_inefficient",
+			"get_max_profit_greedy",
+			"stock_prices_",
+			"get_max_profit",
+			"stock_prices_inefficient",
+			"res",
+			"ans",
+			"parse_request($request, API_SECRET)",
+			"date_to_ranks",
+			"date_to_rank",
+			"date_to_score",
+			"date_to_ranks",
+			"date_to_rank",
+			"date_to_score",
+			"date_to_rank",
+			"date_to_ranks",
+			"key",
+			"'score'",
+			"has",
+			"date_to_ranks",
+			"'];\n",
+			"date_to_ranks",
+			"date_to_score",
+			"date_to_ranks",
+			"date_to_score",
+			"date_to_rank",
+			"date_to_ranks",
+			"$row['score']",
+			"$row['user_id']",
+			"if ($row['user_id'] == $user_id) {\n\t\t\t\t$users_dates->add($date);\n\t\t\t}",
+			"users_dates",
+			"[] = ",
+			"users_dates",
+			"idx",
+			"foreach",
+			"array",
+			"date_to_score",
+			"date_to_rank",
+			"rows",
+			"array",
+			"isset",
+			"user_id",
+			"dates",
+			"users_dates",
+			"set",
+			"date_to_rank",
+			"dates_to_rank",
+			" =",
+			"NULL",
+			"extract_user_ids",
+			"extract_user_ids_from_results",
+			"res",
+			"actual",
+			"false",
+			"sprintf",
+			"ans",
+			"print(",
+			"res",
+			"value",
+			"users_with_top_score_on_date",
+			"'2017-09-02'",
+			"fetch_users_with_top_score_on_date_query",
+			"dates",
+			"key",
+			"variable",
+			"date",
+			"fetch_dates_with_at_least_n_scores_query",
+			"string",
+			"fetch_dates_with_at_least_n_scores_query",
+			"dates_with_at_least_n_scores",
+			"print",
+			"API_SECRET",
+			"strrev",
+			"sprintf",
+			"print",
+			"REQUEST",
+			"echo $payload",
+			"var_dump",
+			"date",
+			"num_scores",
+			"false",
+			"split_request",
+			"fetch_payload",
+			"query",
+			"pdo",
+			"users_with_top_score_on_date",
+			"dates_with_at_least_n_scores",
+			"users_with_top_score_on_date",
+			"query",
+			"fetch_users_with_top_score_on_date_query",
+			"users_with_top_score_on_date",
+			"pdo",
+			"fetch_dates_when_user_in_top_n_query",
+			"mysql_connect",
+			"year",
+			"day",
+			"year",
+			"test_arr",
+			"\"2017-09-01\"",
+			"m",
+			"top_score",
+			"max_score",
+			"where",
+			"from",
+			"select",
+			"return"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "models.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
