@@ -38,24 +38,25 @@ def get_distance(user, doctor):
     	(doctor.longitude - user.longitude)**2 +\
     	(doctor.latitude - user.latitude)**2
     ) ** 0.5
-    
 
 
 def fetch_nearby_doctors_ranked(user):
     max_radius = MAX_RADIUS / DECIMAL_DEGREE_TO_MILES
     doctors = Doctor.objects.filter(
-    	longitude__lte=user.longitude + max_radius,
-    	longitude__gte=user.longitude - max_radius,
+        longitude__lte=user.longitude + max_radius,
+        longitude__gte=user.longitude - max_radius,
+        latitude__lte=user.latitude + max_radius,
+        latitude__gte=user.latitude - max_radius,
     ).order_by('-rating_avg', '-rating_total')
     # filter such that latitude is within the MAX_RADIUS
     final_doctors = []
-    total = 0
+    num_doctors = 0
     for doctor in doctors:
-    	if total > DOCTOR_RECOMMEND_LIMIT:
+    	if num_doctors > DOCTOR_RECOMMEND_LIMIT:
     		break
     	if get_distance(user, doctor) <= max_radius:
     		final_doctors.append(extract_doctor_info(doctor))
-    		total += 1
+    		num_doctors += 1
     return final_doctors
 
 
