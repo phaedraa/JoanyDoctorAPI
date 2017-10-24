@@ -3,7 +3,6 @@ from rest_framework import serializers, viewsets, routers
 
 class CommentSerializer(serializers.ModelSerializer):
 
-    #def __init__(self, data):
     def create(self, validated_data):
         comment = Comment(
             text=validated_data.get('text', ''),
