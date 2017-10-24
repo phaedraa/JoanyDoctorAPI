@@ -1,0 +1,34 @@
+[
+  {
+    "model": "specialties.specialty",
+    "pk": 1,
+    "fields": {
+      "name": "General Practictioner",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+    }
+  },
+  {
+    "model": "specialties.specialty",
+    "pk": 2,
+    "fields": {
+      "name": "Psychiatrist",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+    }
+  },
+  {
+    "model": "specialties.specialty",
+    "pk": 3,
+    "fields": {
+      "name": "Cardiologist",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+    }
+  },
+  {
+    "model": "specialties.specialty",
+    "pk": 4,
+    "fields": {
+      "name": "Neurologist",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+    }
+  }
+]
