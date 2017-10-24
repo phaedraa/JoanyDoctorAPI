@@ -40,9 +40,9 @@ curl -X PUT -d title=<title> -d text=<text> -d  rating=<rating> -H 'Accept:appli
 
 
 ### QUESTIONS
-* How would you handle profanity filtering?
-** I'd use a Natural Language Processing library such as Python's NLTK. As an MVP, you could just filter out set words and replace them with less `harsh` alternatives.
-* How would you handle security and authentication?
-** Require user credentials when making the API request; require authenticiation (username and password)
-* How would you handle functionality where all comments went through an admin approval phase before going live?
-** Add a pending state to all comments upon their creation so that comments with pending are not displayed or used to calculate the doctor ratings. Pending comments would be unpended only upon admin approval, after which their data would be incorporated into corresponding Doctor ratings.
+* **How would you handle profanity filtering?**
+I'd use a Natural Language Processing library such as Python's NLTK. As an MVP, you could just filter out set words and replace them with less `harsh` alternatives.
+* **How would you handle security and authentication?**
+**Require user credentials when making the API request; require authenticiation (username and password).**
+* **How would you handle functionality where all comments went through an admin approval phase before going live?**
+Add a pending state to all comments upon their creation so that comments with pending are not displayed or used to calculate the doctor ratings. Pending comments would be unpended only upon admin approval, after which their data would be incorporated into corresponding Doctor ratings.
