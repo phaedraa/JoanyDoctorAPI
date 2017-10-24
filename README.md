@@ -2,6 +2,19 @@
 
 This is a developer API used for commenting on doctors.
 
+
+==SETUP==:
+
+pip install -r requirements.txt
+python manage.py makemigrations
+python manage.py migrate
+./manage.py runserver
+
+
+Add username/password for authentication into the API. Two test users have already been added. Feel free to use their usernames (phaedraa, benjamin) when making requests.
+
+==USE==:
+
 A comment require's a corresponding and valid doctor ID,
 a rating (1 - 5), a title, comment text, and the username of
 the individual leaving a comment.
