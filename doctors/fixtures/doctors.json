@@ -1,0 +1,212 @@
+[
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon",
+      "rating_avg": "3.3",
+      "rating_total": 3,
+      "specialty": 1,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 2,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon2",
+      "rating_avg": "3.3",
+      "rating_total": 3,
+      "specialty": 1,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 3,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon3",
+      "rating_avg": "3.3",
+      "rating_total": 100,
+      "specialty": 3,
+      "longitude": "30.408",
+      "latitude": "40.125",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon4",
+      "rating_avg": "4.3",
+      "rating_total": 10,
+      "specialty": 4,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon5",
+      "rating_avg": "3.3",
+      "rating_total": 1,
+      "specialty": 2,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon55",
+      "rating_avg": "5.0",
+      "rating_total": 3,
+      "specialty": 1,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon44",
+      "rating_avg": "3.3",
+      "rating_total": 3,
+      "specialty": 4,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lenno4n",
+      "rating_avg": "3.6",
+      "rating_total": 3,
+      "specialty": 1,
+      "longitude": "30.408",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon2322323",
+      "rating_avg": "3.6",
+      "rating_total": 2,
+      "specialty": 2,
+      "longitude": "30.408",
+      "latitude": "40.125",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon23",
+      "rating_avg": "2.4",
+      "rating_total": 9,
+      "specialty": 3,
+      "longitude": "30.408",
+      "latitude": "40.134",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon232",
+      "rating_avg": "3.3",
+      "rating_total": 3,
+      "specialty": 4,
+      "longitude": "30.408",
+      "latitude": "40.124",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon22222",
+      "rating_avg": "3.3",
+      "rating_total": 3,
+      "specialty": 3,
+      "longitude": "30.408",
+      "latitude": "40.122",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon1222",
+      "rating_avg": "1.3",
+      "rating_total": 3,
+      "specialty": 2,
+      "longitude": "30.418",
+      "latitude": "40.123",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  },
+  {
+    "model": "doctors.doctor",
+    "pk": 1,
+    "fields": {
+      "first_name": "Panelope",
+      "last_name": "Lennon12312",
+      "rating_avg": "1.3",
+      "rating_total": 9,
+      "specialty": 2,
+      "longitude": "30.308",
+      "latitude": "40.133",
+      "created": "2017-10-23 23:11:54.637206+00:00"
+
+    }
+  }
+]
